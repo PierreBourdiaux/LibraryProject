@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13155cd-020d-4e90-b716-0d3ba3a62f17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/GraphicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Graphicapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Model/Borrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Model/BorrowingHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Model/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Utils/BookAuthorFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Utils/BookFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Utils/BookGenreFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Utils/BookTitleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Utils/BookYearFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/dataPersitence/Persistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/dataPersitence/SerialisationPersistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/exceptions/BookNotFoundExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/exceptions/BorrowerNotFoundExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/exceptions/NotAvailableException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSerialisation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2f8ZGNc8qJ3OljBTKG2s2CrdMmP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Console.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Console_Run.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.graphic_Run.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HibernateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestSerialisation.testSerialisation.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.TestSerialisation.testSerialisation_Library.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.TestSerialisation.testSerialisation_one_borrowingHistory.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.testPersistance.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryProject [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryProject [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryProject [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryProject [org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pierr/Downloads/hibernate-tutorial-main/hibernate-tutorial-main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pierr\OneDrive\Documents\CROATIE\Java\LibraryProject\src\main\java\org\PierreBourdiaux\exceptions" />
+      <recent name="C:\Users\pierr\OneDrive\Documents\CROATIE\Java\LibraryProject\src\main\java\org\PierreBourdiaux\Model" />
+      <recent name="C:\Users\pierr\OneDrive\Documents\CROATIE\Java\LibraryProject\src\main\java\org\PierreBourdiaux\Utils" />
+      <recent name="C:\Users\pierr\OneDrive\Documents\CROATIE\Java\LibraryProject\src\main\java\org\PierreBourdiaux" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.graphic_Run">
+    <configuration name="Console_Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.PierreBourdiaux.Main" />
+      <module name="LibraryProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graphic_Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.PierreBourdiaux.GraphicMain" />
+      <module name="LibraryProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSerialisation.testSerialisation_Library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSerialisation" />
+      <option name="METHOD_NAME" value="testSerialisation_Library" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSerialisation.testSerialisation_one_borrowingHistory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSerialisation" />
+      <option name="METHOD_NAME" value="testSerialisation_one_borrowingHistory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPersistance" type="JUnit" factoryName="JUnit">
+      <module name="LibraryProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSerialisation" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Console_Run" />
+      <item itemvalue="Application.graphic_Run" />
+      <item itemvalue="JUnit.testPersistance" />
+      <item itemvalue="JUnit.TestSerialisation.testSerialisation_Library" />
+      <item itemvalue="JUnit.TestSerialisation.testSerialisation_one_borrowingHistory" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSerialisation.testSerialisation_Library" />
+        <item itemvalue="JUnit.TestSerialisation.testSerialisation_one_borrowingHistory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13155cd-020d-4e90-b716-0d3ba3a62f17" name="Changes" comment="" />
+      <created>1713184569220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713184569220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestSerialisation.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestSerialisation.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Console.java</url>
+          <line>452</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/PierreBourdiaux/Graphicapp.java</url>
+          <line>288</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.PierreBourdiaux.Model.Book" memberName="title" />
+        <PinnedItemInfo parentTag="org.PierreBourdiaux.Model.Borrower" memberName="membershipID" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
